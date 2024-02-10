@@ -1,0 +1,7 @@
+i1=int(input("Enter Real Part of 1st Complex No.:"))
+j1=int(input("Enter Img. Part of 1st Complex No.:"))
+z1=complex(i1,j1)
+i2=int(input("Enter Real Part of 2nd Complex No.:"))
+j2=int(input("Enter Img. Part of 2nd Complex No.:"))
+z2=complex(i2,j2)
+print("Sum of 2 Complex Numbers:",z1+z2)

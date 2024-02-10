@@ -1,0 +1,1 @@
+print("Tuple=",tuple(int(num) for num in input("Enter the Numbers (comma separated): ").split(",")))
